@@ -22,3 +22,9 @@ To upload the micro python code to the LEGO EV3 robot install the LEGO Mindstorm
 ![competition map solution](./img/competition_solved.gif)
 
 [👉 Video of the real robot 👈](https://youtu.be/fp0sEyfc36w)
+
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
+
+<iframe src="https://www.veed.io/embed/af992ffb-825d-4c23-b76c-0cd6b6ee6fa6" width="744" height="504" frameborder="0" title="sokoban-robot.mp4" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -1,0 +1,8 @@
+XXXXXX
+X  . X
+X $  X
+X    X
+X @  X
+XXXXXX
+
+[0, 0, -1, -90, 90, 90, -1]
